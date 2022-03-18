@@ -1,0 +1,40 @@
+#body_background{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.login_1 , .login_2{
+	background-color:aqua;
+	border-radius: 20px;
+	padding: 20px;
+	float: none;
+	margin-top: 20px;
+}
+
+button{
+	margin-top: 30px;
+	
+}
+
+#The_math_section{
+	color: white !important ;
+}
+
+#body{
+	background-color: rgb(241, 88, 88);
+}
+
+#output{
+	background-color: white;
+	border-top: 5px solid red ;
+	border-radius: 10px;
+	height: auto;
+	padding: 20px;
+	float: none;
+	
+}
+
+#no_1 , #no_2{
+	border-radius: 5px;
+	text-align: center;
+}
